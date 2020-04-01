@@ -1,0 +1,199 @@
+- name: Fibbage
+  min_players: 2
+  max_players: 8
+  packs:
+  - Fibbage
+
+- name: You Don't Know Jack 2015
+  min_players: 1
+  max_players: 4
+  packs:
+  - The Jackbox Party Pack
+
+- name: Fibbage XL
+  min_players: 2
+  max_players: 8
+  packs:
+  - The Jackbox Party Pack
+
+- name: Drawful
+  min_players: 3
+  max_players: 8
+  packs:
+  - The Jackbox Party Pack
+
+- name: Word Spud
+  min_players: 2
+  max_players: 8
+  packs:
+  - The Jackbox Party Pack
+
+- name: Lie Swatter
+  min_players: 1
+  max_players: 100
+  packs:
+  - The Jackbox Party Pack
+
+- name: Quiplash
+  min_players: 3
+  max_players: 8
+  packs:
+  - Quiplash
+
+- name: Fibbage 2
+  min_players: 2
+  max_players: 8
+  packs:
+  - The Jackbox Party Pack 2
+
+- name: Earwax
+  min_players: 3
+  max_players: 8
+  packs:
+  - The Jackbox Party Pack 2
+
+- name: Bidiots
+  min_players: 3
+  max_players: 6
+  packs:
+  - The Jackbox Party Pack 2
+
+- name: Quiplash XL
+  min_players: 3
+  max_players: 8
+  packs:
+  - The Jackbox Party Pack 2
+
+- name: Bomb Corp.
+  min_players: 1
+  max_players: 4
+  packs:
+  - The Jackbox Party Pack 2
+
+- name: Drawful 2
+  min_players: 3
+  max_players: 8
+  packs:
+  - Drawful 2
+
+
+- name: Quiplash 2
+  min_players: 3
+  max_players: 8
+  packs:
+  - The Jackbox Party Pack 3
+
+- name: Trivia Murder Party
+  min_players: 1
+  max_players: 8
+  packs:
+  - The Jackbox Party Pack 3
+
+- name: Guesspionage
+  min_players: 2
+  max_players: 8
+  packs:
+  - The Jackbox Party Pack 3
+
+- name: Tee K.O.
+  min_players: 3
+  max_players: 8
+  packs:
+  - The Jackbox Party Pack 3
+
+- name: Fakin’ It
+  min_players: 3
+  max_players: 6
+  packs:
+  - The Jackbox Party Pack 3
+
+- name: "Fibbage 3 & Fibbage: Enough About You"
+  min_players: 2
+  max_players: 8
+  packs:
+  - The Jackbox Party Pack 4
+
+- name: Survive the Internet
+  min_players: 3
+  max_players: 8
+  packs:
+  - The Jackbox Party Pack 4
+
+- name: Monster Seeking Monster
+  min_players: 3
+  max_players: 7
+  packs:
+  - The Jackbox Party Pack 4
+
+- name: Bracketeering
+  min_players: 3
+  max_players: 16
+  packs:
+  - The Jackbox Party Pack 4
+
+- name: Civic Doodle
+  min_players: 3
+  max_players: 8
+  packs:
+  - The Jackbox Party Pack 4
+
+- name: "You Don't Know Jack: Full Stream"
+  min_players: 1
+  max_players: 8
+  packs:
+  - The Jackbox Party Pack 5
+
+- name: Split the Room
+  min_players: 3
+  max_players: 8
+  packs:
+  - The Jackbox Party Pack 5
+
+- name: Mad Verse City
+  min_players: 3
+  max_players: 8
+  packs:
+  - The Jackbox Party Pack 5
+
+- name: Patently Stupid
+  min_players: 3
+  max_players: 8
+  packs:
+  - The Jackbox Party Pack 5
+
+- name: Zeeple Dome
+  min_players: 1
+  max_players: 6
+  packs:
+  - The Jackbox Party Pack 5
+
+- name: Trivia Murder Party 2
+  min_players: 1
+  max_players: 8
+  packs:
+  - The Jackbox Party Pack 6
+
+- name: Dictionarium
+  min_players: 3
+  max_players: 8
+  packs:
+  - The Jackbox Party Pack 6
+
+- name: Push The Button
+  min_players: 4
+  max_players: 10
+  packs:
+  - The Jackbox Party Pack 6
+
+- name: Joke Boat
+  min_players: 3
+  max_players: 8
+  packs:
+  - The Jackbox Party Pack 6
+
+- name: Role Models
+  min_players: 3
+  max_players: 6
+  packs:
+  - The Jackbox Party Pack 6
+
